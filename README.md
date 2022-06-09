@@ -12,7 +12,11 @@ The fourth step of this was to print out the "All Stocks Analysis" sheet within 
 
 **Results**
 
-When we run the code for years 2017 and 2018, we get the popup window that we created earlier. For year 2017 we get the message "This code ran in 0.1328125 seconds for the year 2017". For the 2018 year, "This code ran in 0.140625 seconds for the year 2018. We can see from this that the 2017 code ran faster than that of the 2018. We also recognize that 2017 had all but one positive return values, while 2018 has all but 2 negative return values. This result indicates that 2017 investors earned more in returns than those who invested in 2018. The code for 2017 also ran faster than the one for 2018 and that could be because of the negative values and the for loops taking longer for those. !<img width="264" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/92186586/172768069-4f482340-b104-4928-be8e-fe2a11538d12.png">
+When we run the code for years 2017 and 2018, we get the popup window that we created earlier. For year 2017 we get the message "This code ran in 0.1328125 seconds for the year 2017". For the 2018 year, "This code ran in 0.140625 seconds for the year 2018. We can see from this that the 2017 code ran faster than that of the 2018. We also recognize that 2017 had all but one positive return values, while 2018 has all but 2 negative return values. This result indicates that 2017 investors earned more in returns than those who invested in 2018. The code for 2017 also ran faster than the one for 2018 and that could be because of the negative values and the for loops taking longer for those. 
+
+!<img width="264" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/92186586/172768069-4f482340-b104-4928-be8e-fe2a11538d12.png">
+
+<img width="261" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/92186586/172768171-c3604c61-37b1-48d8-80b7-07e2cde61ab8.png">
 
 
 **Summary**
